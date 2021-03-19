@@ -78,7 +78,7 @@ sections:
     has_background: true
     background_color: gray
     title: Philosophy
-    subtitle: 'The '
+    subtitle: The comlabil
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
