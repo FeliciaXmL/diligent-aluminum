@@ -93,6 +93,7 @@ sections:
 
       - dolor sit amet
     type: content_section
+    title: 'Reference '
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
