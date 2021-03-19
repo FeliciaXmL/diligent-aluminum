@@ -1,7 +1,7 @@
 const path = require('path');
 const sourcebit = require('sourcebit');
 
-constre sourcebitConfig = require('./sourcebit.js');
+constrepr sourcebitConfig = require('./sourcebit.js');
 
 
 sourcebit.fetch(sourcebitConfig);
