@@ -80,6 +80,7 @@ sections:
         style: primary
     has_background: true
     background_color: gray
+    title: Philosophy
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
