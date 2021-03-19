@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }) {
         }
 
         if (window.onNextjsRouteChangeComplete) {
-            window.onNextjsRouteChangeComplete();
+            window.onNextjsRouteChangeComplete(mirror);
         }
 
         const handleRouteChangeStart = () => {
