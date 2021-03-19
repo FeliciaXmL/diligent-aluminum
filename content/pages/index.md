@@ -78,6 +78,7 @@ sections:
     has_background: true
     background_color: gray
     title: Philosophy
+    subtitle: 'The '
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
