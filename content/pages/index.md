@@ -76,7 +76,7 @@ sections:
         url: /features
         style: primary
     has_background: true
-    background_color: gray
+    background_color: blue
     title: Philosophy
     subtitle: >-
       The capabilities my data will reference and explain every single piece of
