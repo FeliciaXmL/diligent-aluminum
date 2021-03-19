@@ -78,7 +78,9 @@ sections:
     has_background: true
     background_color: gray
     title: Philosophy
-    subtitle: The capabilities my data will reference every single piece of my research
+    subtitle: >-
+      The capabilities my data will reference and every single piece of my
+      research
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
