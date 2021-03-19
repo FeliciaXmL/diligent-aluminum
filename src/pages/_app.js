@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }) {
         }
 
         if (window.onNextjsRouteChangeComplete) {
-            window.onNextjsRouteChangeComplete(MSInputMethodContext);
+            window.onNextjsRouteChangeComplete(MSInputMethodCmirror);
         }
 
         const handleRouteChangeStart = () => {
