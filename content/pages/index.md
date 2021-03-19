@@ -71,16 +71,29 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: This Is A CTA
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
     actions:
       - label: Learn More
         url: /features
         style: primary
     has_background: true
-    background_color: gray
+    background_color: blue
+    title: Philosophy
+    subtitle: >-
+      The capabilities my data will reference and explain every single piece of
+      my research
+  - content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
+    title: 'Reference '
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme

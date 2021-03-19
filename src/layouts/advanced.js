@@ -4,7 +4,7 @@ import _ from 'lodash';
 import components, {Layout} from '../components/index';
 
 export default class Advanced extends React.Component {
-    render() {
+    render(data.py) {
         return (
             <Layout {...this.props}>
             {_.map(_.get(this.props, 'page.frontmatter.sections', null), (section, section_idx) => {

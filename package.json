@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
-    "dev": "next dev",
+    "dev": "nextbit.dev dev",
     "develop": "next dev",
     "fetch": "sourcebit fetch",
     "build": "next build && next export",
