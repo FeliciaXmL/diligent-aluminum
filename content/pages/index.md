@@ -78,7 +78,7 @@ sections:
     has_background: true
     background_color: gray
     title: Philosophy
-    subtitle: 'The capabilities of '
+    subtitle: The capabilities of my
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
