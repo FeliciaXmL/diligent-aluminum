@@ -81,8 +81,7 @@ sections:
     subtitle: >-
       The capabilities my data will reference and explain every single piece of
       my research
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
